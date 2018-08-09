@@ -1,0 +1,10 @@
+# Site settings
+title: Course name (is in _config.yml)
+# email: firstname.lastname@uit.no
+description: > # this means to ignore newlines until "baseurl:"
+  Course description. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://uit-inf-XXX-Y20YY.github.io/" 
+
+# Build settings
+markdown: kramdown
