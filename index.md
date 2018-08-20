@@ -6,7 +6,7 @@ layout: default
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/566314/inf-2202?ar=2018&semester=H)
 
-The github org for this course is [uit-inf-2202-f18](https://github.com/uit-inf-2202-f18)
+The GitHub organization for this course is [uit-inf-2202-f18](https://github.com/uit-inf-2202-f18)
 
 We use the [inf-2202-f18@list.uit.no](https://list.uit.no/sympa/info/inf-2202-f18) mailing list to send important information. The link is to the list's website; among other things it has an archive of old emails.
 
