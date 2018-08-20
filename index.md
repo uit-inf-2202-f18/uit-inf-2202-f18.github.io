@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# inf-2202
-
 ## Administrative information
 
 Administrative course information is available [here](https://uit.no/utdanning/emner/emne/566314/inf-2202?ar=2018&semester=H)
