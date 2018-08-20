@@ -32,7 +32,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 | Lecture | Date      | Subject                                       | Lecturer  |
 |---------|-----------|-----------------------------------------------|-----------|
-| L1      | TUE 21/8  | [Introduction](public/01-introduction.pptx)   | LAB       |
+| L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx) | LAB       |
 | L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures | LAB |
 | L3      | TUE 28/8  | Parallel programming                          | LAB       |
 | L5      | Thu 6/9   | Functional programming                        | - |
@@ -56,10 +56,11 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | P2      | Fri 6/9    | Thu 4/10 | Reactive programming               | MJ |
 | P3      | Fri 5/10   | Thu 1/11 | Cloud programming                  | MJ |
 
-## Mandatory reading
+## Mandatory readings
 
 1. Lectures
 2. Mandatory assignments
+3. Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4. Or in another operating systems textbook the chapters about threading, IPC mechanisms, and classical IPC problems.
 
 ## Previous exams
 
