@@ -34,7 +34,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 |---------|-----------|-----------------------------------------------|-----------|
 | L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx) | LAB       |
 | L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures | LAB |
-| L3      | TUE 28/8  | Parallel programming                          | LAB       |
+| L3      | MON 27/8  | Parallel programming                          | LAB       |
 | L5      | Thu 6/9   | Functional programming                        | - |
 | L6      | TUE 11/9  | Asynchronous and Event-based Programming      | - |
 | L7      | Thu 20/9  | Reactive vs Interactive Programming           | - |
