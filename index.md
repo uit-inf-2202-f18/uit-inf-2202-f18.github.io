@@ -33,28 +33,29 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | Lecture | Date      | Subject                                       | Lecturer  |
 |---------|-----------|-----------------------------------------------|-----------|
 | L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx) | LAB       |
-| L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures | LAB |
-| L3      | MON 27/8  | Parallel programming                          | LAB       |
-| L5      | Thu 6/9   | Functional programming                        | - |
-| L6      | TUE 11/9  | Asynchronous and Event-based Programming      | - |
-| L7      | Thu 20/9  | Reactive vs Interactive Programming           | - |
-| L8      | Thu 27/9  | Virtual Time Scheduling and Asynchronous Reactive Programming | - |
-| L9      | Thu 11/10 | Performance evaluation 1                      | LAB       |
-| L10     | Thu 18/10 | Performance evaluation 2                      | LAB       |
-| L11     | Thu 25/10 | Cloud services                                | -         |
-| L12     | Thu 1/11  | Cloud services 2                              | -         |
-| L13     | Thu 8/11  | Summary lecture                               | LAB       |
+| L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures (no slides) | LAB |
+| L3      | MON 27/8  | [Parallel programming](lectures/03-parallel-programs.pptx) | LAB |
+| L4      | Thu 6/9   | Cloud services                                | Jan-Ove Karlberg, Tor Kreutzer |
+| L5      | TUE 11/9  | Cloud services 2                              | Jan-Ove Karlberg, Tor Kreutzer |
+| L6      | Thu 20/9  | Performance evaluation 1                      | LAB       |
+| L7      | Thu 27/9  | Performance evaluation 2                      | LAB       |
+| L8      | TBA       | Functional programming                        | - |
+| L9      | TBA       | Asynchronous and Event-based Programming      | - |
+| L10     | TBA       | Reactive vs Interactive Programming           | - |
+| L11     | TBA       | Virtual Time Scheduling and Asynchronous Reactive Programming | - |
+| L12     | Thu 8/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
-| Exam    | Mon 19/11 | Exam                                          |           |
+| Exam    | TBA | Exam                                          |           |
 
 
 ## Mandatory assignments
 
 | Project |	Start      | Due      | Subject  | Presenter |
 |---------|------------|----------|----------|---------|
-| P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads | LAB, MJ |
-| P2      | Fri 6/9    | Thu 4/10 | Reactive programming               | MJ |
-| P3      | Fri 5/10   | Thu 1/11 | Cloud programming                  | MJ |
+| P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads | MJ      |
+| P2      | Thu 6/9    | Thu 4/10 | Cloud programming                  | TK, JOK |
+| P3      | Fri 5/10   | TBD      | Reactive programming               | MJ |
+
 
 ## Mandatory readings
 
