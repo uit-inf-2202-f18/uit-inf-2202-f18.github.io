@@ -36,7 +36,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures (no slides) | LAB |
 | L3      | MON 27/8  | [Parallel programming](lectures/03-parallel-programs.pptx) | LAB |
 | L4      | Thu 6/9   | Cloud services                                | Jan-Ove Karlberg, Tor Kreutzer |
-| L5      | MON 10/9  | Performance evaluation 1                      | LAB       |
+| L5      | MON 10/9  | [Performance evaluation](lectures/05-performance-evaluation.pptx)                  | LAB       |
 | L6      | Thu 20/9  | Cloud services 2                              | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | Performance evaluation 2                      | LAB       |
 | L8      | TBA       | Functional programming                        | - |
