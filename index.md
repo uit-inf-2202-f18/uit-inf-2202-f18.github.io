@@ -35,9 +35,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx) | LAB       |
 | L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures (no slides) | LAB |
 | L3      | MON 27/8  | [Parallel programming](lectures/03-parallel-programs.pptx) | LAB |
-| L4      | Thu 6/9   | Cloud services                                | Jan-Ove Karlberg, Tor Kreutzer |
+| L4      | Thu 6/9   | [Cloud services: Monitoring, data, and analytics](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L5      | MON 10/9  | [Performance evaluation](lectures/05-performance-evaluation.pptx)                  | LAB       |
-| L6      | Thu 20/9  | Cloud services 2                              | Jan-Ove Karlberg, Tor Kreutzer |
+| L6      | Thu 20/9  | [Cloud services 2](these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx)                      | LAB       |
 | L8      | TBA       | Functional programming                        | - |
 | L9      | TBA       | Asynchronous and Event-based Programming      | - |
