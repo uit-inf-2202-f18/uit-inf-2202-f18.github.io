@@ -38,7 +38,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L4      | Thu 6/9   | Cloud services                                | Jan-Ove Karlberg, Tor Kreutzer |
 | L5      | MON 10/9  | [Performance evaluation](lectures/05-performance-evaluation.pptx)                  | LAB       |
 | L6      | Thu 20/9  | Cloud services 2                              | Jan-Ove Karlberg, Tor Kreutzer |
-| L7      | Thu 27/9  | Performance evaluation 2                      | LAB       |
+| L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx)                      | LAB       |
 | L8      | TBA       | Functional programming                        | - |
 | L9      | TBA       | Asynchronous and Event-based Programming      | - |
 | L10     | TBA       | Reactive vs Interactive Programming           | - |
