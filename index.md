@@ -30,31 +30,32 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 ## Lecture plan
 
-| Lecture | Date      | Subject                                       | Lecturer  |
-|---------|-----------|-----------------------------------------------|-----------|
-| L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx) | LAB       |
+| Lecture | Date      | Subject                                                              | Lecturer  |
+|---------|-----------|----------------------------------------------------------------------|-----------|
+| L1      | TUE 21/8  | [Introduction](lectures/01-introduction.pptx)                        | LAB       |
 | L2      | Thu 23/8  | Threads and synchronization primitives; Parallel architectures (no slides) | LAB |
-| L3      | MON 27/8  | [Parallel programming](lectures/03-parallel-programs.pptx) | LAB |
+| L3      | MON 27/8  | [Parallel programming](lectures/03-parallel-programs.pptx)           | LAB        |
 | L4      | Thu 6/9   | [Cloud services: Monitoring, data, and analytics](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
-| L5      | MON 10/9  | [Performance evaluation](lectures/05-performance-evaluation.pptx)                  | LAB       |
+| L5      | MON 10/9  | [Performance evaluation](lectures/05-performance-evaluation.pptx)    | LAB       |
 | L6      | Thu 20/9  | [Getting the most out of cloud service logs](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
-| L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx)                      | LAB       |
-| L8      | TBA       | Functional programming                        | - |
-| L9      | TBA       | Asynchronous and Event-based Programming      | - |
-| L10     | TBA       | Reactive vs Interactive Programming           | - |
-| L11     | TBA       | Virtual Time Scheduling and Asynchronous Reactive Programming | - |
+| L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
+| -       | Thu 4/10  | No lecture                                                           | -         |
+| L8      | Thu 11/10 | Introduction to functional programming in F#                     | Jonas Juselius |
+| L9      | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
+| L10     | Thu 25/10 | Reactive vs Interactive Programming           | Dag Brattli |
+| L11     | Thu 1/11  | MVU, the Elm-achitecture and the Actor-model  | Dag Brattli |
 | L12     | Thu 8/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
-| Exam    | TBA | Exam                                          |           |
+| Exam    | Wed 21/11 | Exam                                          | -         |
 
 
 ## Mandatory assignments
 
 | Project |	Start      | Due      | Subject  | Presenter |
 |---------|------------|----------|----------|---------|
-| P1 	    | Fri 24/8   | Thu 6/9  | Parallel programming using threads | MJ      |
-| P2      | Thu 6/9    | Thu 4/10 | Cloud programming                  | TK, JOK |
-| P3      | Fri 5/10   | TBD      | Reactive programming               | MJ |
+| P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [zip](assignments/1.zip) | MJ      |
+| P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | TK, JOK |
+| P3      | Fri 5/10   | TBD      | Reactive programming                   | MJ      |
 
 
 ## Mandatory readings
