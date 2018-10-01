@@ -40,9 +40,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L6      | Thu 20/9  | [Getting the most out of cloud service logs](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
 | -       | Thu 4/10  | No lecture                                                           | -         |
-| L8      | Thu 11/10 | Introduction to functional programming in F#                     | Jonas Juselius |
+| L8      | Thu 11/10 | Introduction to functional programming in F#                         | Jonas Juselius |
 | L9      | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
-| L10     | Thu 25/10 | Reactive vs Interactive Programming           | Dag Brattli |
+| L10     | MON 22/10 | Reactive vs Interactive Programming           | Dag Brattli |
 | L11     | Thu 1/11  | MVU, the Elm-achitecture and the Actor-model  | Dag Brattli |
 | L12     | Thu 8/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
