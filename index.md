@@ -40,7 +40,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L6      | Thu 20/9  | [Getting the most out of cloud service logs](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
 | -       | Thu 4/10  | No lecture                                                           | -         |
-| L8      | Thu 11/10 | [Functional programming in F#](lecture-08-fsharp.pdf)                | Jonas Juselius |
+| L8      | Thu 11/10 | Functional programming in F#: [slides](lecture-08-fsharp.pdf) and [example code](https://github.com/juselius/FSharpByExample) | Jonas Juselius |
 | L9      | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
 | L10     | MON 22/10 | Reactive vs Interactive Programming           | Dag Brattli |
 | L11     | Thu 1/11  | MVU, the Elm-achitecture and the Actor-model  | Dag Brattli |
@@ -60,9 +60,20 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 ## Mandatory readings
 
+The learning goals for the course are listed [here](https://uit.no/utdanning/emner/emne/566314/inf-2202?ar=2018&semester=H). 
+There is no "pensum", but you are expected to know what we did in:
+
 1. Lectures
 2. Mandatory assignments
+
+## Recommended readings
+
+The following are recommended readings: 
+
 3. Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4. Or in another operating systems textbook the chapters about threading, IPC mechanisms, and classical IPC problems.
+4. [Concurrency in .NET, Modern patterns of concurrent and parallel programming](https://www.manning.com/books/concurrency-in-dot-net).
+5. Recommended readings listed in the mandatory assignments.
+6. Recommended readings suggested in the lecture notes.
 
 ## Previous exams
 
