@@ -40,7 +40,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L6      | Thu 20/9  | [Getting the most out of cloud service logs](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
 | -       | Thu 4/10  | No lecture                                                           | -         |
-| L8      | Thu 11/10 | Introduction to functional programming in F#                         | Jonas Juselius |
+| L8      | Thu 11/10 | [Functional programming in F#](lecture-08-fsharp.pdf)                | Jonas Juselius |
 | L9      | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
 | L10     | MON 22/10 | Reactive vs Interactive Programming           | Dag Brattli |
 | L11     | Thu 1/11  | MVU, the Elm-achitecture and the Actor-model  | Dag Brattli |
@@ -55,7 +55,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 |---------|------------|----------|----------|---------|
 | P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [zip](assignments/1.zip) | MJ      |
 | P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | TK, JOK |
-| P3      | Fri 5/10   | TBD      | Reactive programming                   | MJ      |
+| P3      | Fri 5/10   | TBD      | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and zip  | Dag Brattli      |
 
 
 ## Mandatory readings
