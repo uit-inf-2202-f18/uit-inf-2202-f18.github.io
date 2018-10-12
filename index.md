@@ -23,7 +23,7 @@ Please ruminate on [this page about citation, plagiarism, &c. from the universit
 
 Refer to the lecture and mandatory assignment plan, and e-mails for which room is used when.
 
-## Staff
+### Staff
 
 * **Responsible Professor:** Lars Ailo Bongo
 * **Teaching assistant** Mads Johansen
@@ -58,7 +58,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | Project |	Start      | Due      | Subject  | Presenter |
 |---------|------------|----------|----------|---------|
 | P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [zip](assignments/1.zip) | MJ      |
-| P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | TK, JOK |
+| P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | MJ |
 | P3      | Fri 5/10   | TBD      | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and zip  | Dag Brattli      |
 
 
