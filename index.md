@@ -59,7 +59,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 |---------|------------|----------|----------|---------|
 | P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [zip](assignments/1.zip) | MJ      |
 | P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | MJ |
-| P3      | Fri 5/10   | TBD      | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and zip  | Dag Brattli      |
+| P3      | Fri 5/10   | Fri 6/11 | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and [zip](assignments/3.zip) | Dag Brattli      |
 
 
 ## Mandatory readings
