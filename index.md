@@ -27,6 +27,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 * **Responsible Professor:** Lars Ailo Bongo
 * **Teaching assistant** Mads Johansen
+* **Teaching assistant** Jo Inge Arnes
+* **Teaching assistant** Tengel Ekrem Skar
+
 
 ## Lecture plan
 
