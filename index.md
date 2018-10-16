@@ -43,11 +43,12 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L6      | Thu 20/9  | [Getting the most out of cloud service logs](https://github.com/uit-inf-2202-f18/private-lecture-notes) (these are not publicly available) | Jan-Ove Karlberg, Tor Kreutzer |
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
 | -       | Thu 4/10  | No lecture                                                           | -         |
-| L8      | Thu 11/10 | [Functional programming in F#](lecture-08-fsharp.pdf)                | Jonas Juselius |
+| L8      | Thu 11/10 | [Functional programming in F#](lectures/08-fsharp.pdf)                | Jonas Juselius |
 | L9      | FRI 12/10 | Live coding in F#:  [example code](https://github.com/juselius/FSharpByExample) in the Live-UiT-2018 branch | Jonas Juselius |
 | L10     | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
 | L11     | MON 22/10 | Reactive vs Interactive Programming           | Dag Brattli |
-| L12     | Thu 1/11  | MVU, the Elm-achitecture and the Actor-model  | Dag Brattli |
+| L12     | Thu 25/10 | MVU, the Elm-achitecture and the Actor-model  | Jonas Juselius |
+| -       | Thu 1/11  | No lecture                                    | -         |
 | L13     | Thu 8/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
 | Exam    | Wed 21/11 | Exam                                          | -         |
@@ -57,10 +58,11 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 
 | Project |	Start      | Due      | Subject  | Presenter |
 |---------|------------|----------|----------|---------|
-| P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [zip](assignments/1.zip) | MJ      |
-| P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [zip](assignments/2.zip) | MJ |
-| P3      | Fri 5/10   | Fri 6/11 | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and [zip](assignments/3.zip) | Dag Brattli      |
+| P1 	  | Fri 24/8   | Thu 6/9  | Parallel programming using threads: [repository](https://github.com/uit-inf-2202-f18/assignment-1) and [public zip](assignments/1.zip) | MJ      |
+| P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [public zip](assignments/2.zip) | MJ |
+| P3      | Fri 5/10   | Fri 6/11 | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and [public zip](assignments/3.zip) | Dag Brattli      |
 
+Note that the repositories are only available to the studnets in the course, but the zip of the repoisotory content is publicly available.
 
 ## Mandatory readings
 
