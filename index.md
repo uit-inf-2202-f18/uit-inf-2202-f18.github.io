@@ -44,9 +44,9 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L7      | Thu 27/9  | [Performance evaluation 2](lectures/07-performance-evaluation2.pptx) | LAB       |
 | -       | Thu 4/10  | No lecture                                                           | -         |
 | L8      | Thu 11/10 | [Functional programming in F#](lectures/08-fsharp.pdf)                | Jonas Juselius |
-| L9      | FRI 12/10 | Live coding in F#:  [example code](https://github.com/juselius/FSharpByExample) in the Live-UiT-2018 branch | Jonas Juselius |
-| L10     | Thu 18/10 | Asynchronous and Event-based Programming      | Dag Brattli |
-| L11     | MON 22/10 | Reactive vs Interactive Programming           | Dag Brattli |
+| L9      | FRI 12/10 | Live coding in F#: [example code](https://github.com/juselius/FSharpByExample) in the Live-UiT-2018 branch | Jonas Juselius |
+| L10     | Thu 18/10 | Asynchronous Programming: [Medium](https://medium.com/@dagbrattli/asynchronicity-in-f-eb4c952f0035) | Dag Brattli |
+| L11     | MON 22/10 | Reactive Programming           | Dag Brattli |
 | L12     | Thu 25/10 | MVU, the Elm-achitecture and the Actor-model  | Jonas Juselius |
 | -       | Thu 1/11  | No lecture                                    | -         |
 | L13     | Thu 8/11  | Summary lecture                               | LAB       |
