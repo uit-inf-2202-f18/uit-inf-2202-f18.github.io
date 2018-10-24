@@ -49,7 +49,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L11     | MON 22/10 | Reactive Programming           | Dag Brattli |
 | L12     | Thu 25/10 | MVU, the Elm-achitecture and the Actor-model  | Jonas Juselius |
 | -       | Thu 1/11  | No lecture                                    | -         |
-| L13     | Thu 8/11  | Summary lecture                               | LAB       |
+| L13     | FRI 9/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
 | Exam    | Wed 21/11 | Exam                                          | -         |
 
@@ -62,7 +62,7 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | P2      | Thu 6/9    | Thu 4/10 | Azure Data Lake and techniques for working with cloud-scale datasets: [repository](https://github.com/uit-inf-2202-f18/assignment-2) and [public zip](assignments/2.zip) | MJ |
 | P3      | Fri 5/10   | Fri 6/11 | Reactive programming: [repository](https://github.com/uit-inf-2202-f18/assignment-3) and [public zip](assignments/3.zip) | Dag Brattli      |
 
-Note that the repositories are only available to the studnets in the course, but the zip of the repoisotory content is publicly available.
+Note that the repositories are only available to the students in the course, but the zip of the repository content is publicly available.
 
 ## Mandatory readings
 
