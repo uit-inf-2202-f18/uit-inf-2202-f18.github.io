@@ -49,7 +49,8 @@ Refer to the lecture and mandatory assignment plan, and e-mails for which room i
 | L11     | MON 22/10 | Reactive Programming           | Dag Brattli |
 | L12     | Thu 25/10 | MVU, the Elm-achitecture and the Actor-model  | Jonas Juselius |
 | -       | Thu 1/11  | No lecture                                    | -         |
-| L13     | FRI 9/11  | Summary lecture                               | LAB       |
+| L13     | Thu 8/11  | Competetion with GoFish                       |           | 
+| L14     | FRI 9/11  | Summary lecture                               | LAB       |
 | -       | Thu 15/11 | No lecture                                    | -         |
 | Exam    | Wed 21/11 | Exam                                          | -         |
 
