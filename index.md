@@ -78,6 +78,7 @@ The following are recommended readings:
 
 3. Modern operating systems, 3ed, Andrew S. Tanenbaum. Prentice Hall. 2007. Chapters: 2.2, 2.3, 2.5, 10.3, 11.4. Or in another operating systems textbook the chapters about threading, IPC mechanisms, and classical IPC problems.
 4. [Concurrency in .NET, Modern patterns of concurrent and parallel programming](https://www.manning.com/books/concurrency-in-dot-net).
+5. [Fable reaction workshop slides](https://dbrattli.github.io/Fableconf/#1). Dag Brattli. 
 5. Recommended readings listed in the mandatory assignments.
 6. Recommended readings suggested in the lecture notes.
 
