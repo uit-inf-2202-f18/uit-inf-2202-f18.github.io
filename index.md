@@ -73,6 +73,8 @@ There is no "pensum", but you are expected to know what we did in:
 1. Lectures
 2. Mandatory assignments
 
+More concretly: pensum is the organized part of the course, including lectures, mandatory assignments, and colloquium. In Norwegian: Pensum er den organiserte delen av undervisningen, inkludert forelesninger, laboratoriearbeid og seminarer (ref Forskrift for eksamener ved UiT §4).
+
 ## Recommended readings
 
 The following are recommended readings: 
